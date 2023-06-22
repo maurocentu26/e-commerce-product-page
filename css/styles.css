@@ -104,8 +104,7 @@ ul{
     width: 70vw;
     top: 0;
     left: -100vw;
-    /* display: none; */
-    z-index: 3;
+    z-index: 4;
     background-color: #fff;
     padding: 1.5rem;
     transition: left .5s ease;
@@ -362,6 +361,7 @@ ul{
         height: unset;
         order: 2;
         padding: unset;
+        z-index: 3;
     }
     .nav__ul{
         margin: unset;
