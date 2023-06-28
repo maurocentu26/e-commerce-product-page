@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub repository!](https://github.com/maurocentu26/e-commerce-product-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live solution!](https://shoes-e-commerce-one.vercel.app/)
 
 ## My process
 
@@ -49,12 +49,12 @@ Users should be able to:
 - Mobile-first workflow
 
 ### What I learned
-Approach the project using the BEM methodology for each HTML element. I still think I need more practice to see all the advantages of this methodology, but I am noticing relevant advantages over others.
+Approach the project using the BEM methodology for each HTML element. I still think I need more practice to see all the advantages of this methodology, but I notice relevant advantages over others.
 
 As for CSS, beyond the use of flexbox, which I'm trying to improve, I discovered the "unset" property that is very useful when making responsive designs. Resetting the default property makes it much easier to style in a precise way.
 
 Regarding the JavaScript code, this is the first project in which I use classes in different modules. I have to learn how to organize these classes better, but everything is achieved with practice. 
-The advantages of using classes and modules are obvious, for that reason it is always better to approach the project this way.
+The advantages of using classes and modules are obvious, that's why it is always better to approach the project this way.
 There are two functions of which I would like to highlight their implementation. I am aware that it can be implemented, perhaps, in a better way, but I tried to be as practical as possible following the best practices for code.
 Examples of the mentioned codes:
 ```js
@@ -124,8 +124,8 @@ The second code corresponds to the implementation for adding products to the sho
 I must continue practicing with classes and modules, both in terms of their correct implementation and the abstraction of methods so that each class is as independent as possible. 
 Regarding the layout, I still need to learn the correct handling of properties for a more compact and practical responsive design.
 
-- Website - [Add your name here](https://github.com/maurocentu26)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/maurocentu26)
+- Website - [maurocentu26](https://github.com/maurocentu26)
+- Frontend Mentor - [@maurocentu26](https://www.frontendmentor.io/profile/maurocentu26)
 
 ## Acknowledgments
 
