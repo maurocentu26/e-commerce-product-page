@@ -29,7 +29,7 @@ export function addProduct() {
 }
 
 export function quitProduct() {
-    productAmount.textContent = (productAmount.textContent == 0 ? 0 : productAmount.textContent - 1);
+    productAmount.textContent = (productAmount.textContent == 1 ? 1 : productAmount.textContent - 1);
 }
 
 export function addToCart() {
